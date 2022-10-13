@@ -1,5 +1,5 @@
 ## 操作场景
-本文介绍通过 [二进制安装](#binary) 或 [NPM 安装](#npm) 的方式，快速安装 Serverless Framework。
+本文介绍通过 [二进制安装](#binary) 或 [NPM 安装](#npm) 的方式，快速安装 Serverless Cloud Framework。
 
 
 ## 操作步骤
